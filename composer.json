@@ -1,0 +1,22 @@
+{
+    "name": "t1mmen/opauth-campaignmonitor",
+    "description": "CampaignMonitor strategy for Opauth",
+    "keywords": ["authentication","auth","campaignmonitor"],
+    "homepage": "https://github.com/t1mmen/opauth-campaignmonitor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timm Stokke",
+            "email": "timm@stokke.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "opauth/opauth": ">=0.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "."
+        }
+    }
+}
